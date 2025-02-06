@@ -26,7 +26,6 @@ Users can explore different **data-driven insights** such as:
 ## 🎯 Features
 ✔ **Interactive Dropdown Menu** – Select and explore different visualizations.  
 ✔ **Word Cloud of Job Titles** – Shows the most frequently occurring roles in data science.  
-
 ✔ **Top 10 Job Roles** – Displays the most in-demand data science positions.  
 ✔ **Salary Insights** – Understand salary trends across years and experience levels.  
 ✔ **Global Hiring Trends** – Find out which countries have the most data science job openings.  
@@ -38,10 +37,4 @@ Users can explore different **data-driven insights** such as:
 <img width="1470" alt="Screenshot 2025-02-06 at 12 05 24 AM" src="https://github.com/user-attachments/assets/481262f4-14f0-41d3-9eb9-eb244b80173d" />
 ---
 
-## 🚀 How to Run Locally
-Follow these steps to run the Streamlit app on your local machine:
 
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-github/data-science-jobs-analysis.git
-cd data-science-jobs-analysis
